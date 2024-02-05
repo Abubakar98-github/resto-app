@@ -1,0 +1,40 @@
+{
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "address": "Faisalabad",
+      "email": "pizzahut@official.com",
+      "id": 5
+    },
+    {
+      "name": "kkh",
+      "email": "ali@gmail.com",
+      "address": "hhh",
+      "id": 6
+    },
+    {
+      "name": "1",
+      "email": "2",
+      "address": "3",
+      "id": 7
+    },
+    {
+      "name": "3",
+      "email": "3",
+      "address": "3",
+      "id": 8
+    },
+    {
+      "name": "4",
+      "email": "4",
+      "address": "4",
+      "id": 9
+    },
+    {
+      "name": "d",
+      "email": "d",
+      "address": "d",
+      "id": 10
+    }
+  ]
+}
